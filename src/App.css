@@ -1,0 +1,16 @@
+.custom-quill .ql-editor {
+    font-size: 18px; /* Default font size */
+  }
+  
+  .custom-quill .ql-editor .ql-font-normal {
+    font-size: 18px;
+  }
+  
+  .custom-quill .ql-editor .ql-font-large {
+    font-size: 24px;
+  }
+  
+  .custom-quill .ql-editor .ql-font-huge {
+    font-size: 32px;
+  }
+  
